@@ -6,8 +6,6 @@
 
 <br/>
 
-![Followers](https://img.shields.io/github/followers/Deor0?label=Followers&style=flat&logo=github)
-
 </div>
 
 ---
