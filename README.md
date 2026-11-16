@@ -28,11 +28,37 @@
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="languages" />
+<img src="https://skillicons.dev/icons?i=ts,js,java,py,dart,c,cpp&theme=dark" alt="Languages" />
 
-**Tools & Frameworks**
+<sub>TypeScript, JavaScript, Java, Python, SQL, Dart, C/C++</sub>
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,postgres,aws,git,github,vercel&theme=dark" alt="tools" />
+**Frameworks**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,nestjs,flask&theme=dark" alt="Frameworks" />
+
+<sub>React, Next.js, React Native, Flutter, Node.js, NestJS, Flask</sub>
+
+**Databases**
+
+<img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase&theme=dark" alt="Databases" />
+
+<sub>PostgreSQL, MongoDB, MySQL, Supabase, Firebase</sub>
+
+**Cloud & DevOps**
+
+<img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,vercel,git,github&theme=dark" alt="Cloud & DevOps" />
+
+<sub>AWS (EKS, SQS), Kubernetes, Docker, Vercel, Git, GitHub</sub>
+
+**Testing**
+
+<img src="https://skillicons.dev/icons?i=playwright,postman&theme=dark" alt="Testing" />
+
+<sub>Playwright, WireMock, Postman</sub>
+
+**Libraries & APIs**
+
+<sub>TanStack Query, NextAuth, ShadCN, Chakra UI, REST APIs, Gemini API, ElevenLabs</sub>
 
 </div>
 
