@@ -23,7 +23,6 @@ Outside of work, I'm deep into system design — thinking through scalability, a
 
 <div align="center">
 
-      <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer" alt="footer" />
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer" alt="footer" />
 
-      </div>
-      
+</div>
