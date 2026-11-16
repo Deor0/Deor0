@@ -16,13 +16,12 @@
 ## 👋 About Me
 
 - 🔭 Building **Flood-Detection**, a web app for flood prediction, community awareness and missing-person reports
-- - 🧠 Interested in **system design, scalability and cloud architecture**
-  - - ♟️ Chess player, former competitive table tennis player
-    - - 🌱 Always learning, always shipping
-     
-      - ---
+- 🧠 Interested in **system design, scalability and cloud architecture**
+- 🌱 Always learning, always shipping
 
-      ## 🛠️ Tech Stack
+---
+
+## 🛠️ Tech Stack
 
       <div align="center">
 
