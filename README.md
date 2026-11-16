@@ -6,7 +6,6 @@
 
 <br/>
 
-![Profile views](https://komarev.com/ghpvc/?username=Deor0&label=Profile%20views&color=0e75b6&style=flat)
 ![Followers](https://img.shields.io/github/followers/Deor0?label=Followers&style=flat&logo=github)
 
 </div>
@@ -30,35 +29,40 @@
 
 <img src="https://skillicons.dev/icons?i=ts,js,java,py,dart,c,cpp&theme=dark" alt="Languages" />
 
-<sub>TypeScript, JavaScript, Java, Python, SQL, Dart, C/C++</sub>
+<img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" alt="SQL" />
 
 **Frameworks**
 
 <img src="https://skillicons.dev/icons?i=react,nextjs,flutter,nodejs,nestjs,flask&theme=dark" alt="Frameworks" />
 
-<sub>React, Next.js, React Native, Flutter, Node.js, NestJS, Flask</sub>
+<img src="https://img.shields.io/badge/React_Native-20232A?style=for-the-badge&logo=react&logoColor=white" alt="React Native" />
 
 **Databases**
 
 <img src="https://skillicons.dev/icons?i=postgres,mongodb,mysql,supabase,firebase&theme=dark" alt="Databases" />
 
-<sub>PostgreSQL, MongoDB, MySQL, Supabase, Firebase</sub>
-
 **Cloud & DevOps**
 
 <img src="https://skillicons.dev/icons?i=aws,kubernetes,docker,vercel,git,github&theme=dark" alt="Cloud & DevOps" />
 
-<sub>AWS (EKS, SQS), Kubernetes, Docker, Vercel, Git, GitHub</sub>
+<img src="https://img.shields.io/badge/AWS_EKS-FF9900?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS EKS" />
+<img src="https://img.shields.io/badge/AWS_SQS-FF4F8B?style=for-the-badge&logo=amazonaws&logoColor=white" alt="AWS SQS" />
 
 **Testing**
 
 <img src="https://skillicons.dev/icons?i=playwright,postman&theme=dark" alt="Testing" />
 
-<sub>Playwright, WireMock, Postman</sub>
+<img src="https://img.shields.io/badge/WireMock-2B2B2B?style=for-the-badge&logo=apachemaven&logoColor=white" alt="WireMock" />
 
 **Libraries & APIs**
 
-<sub>TanStack Query, NextAuth, ShadCN, Chakra UI, REST APIs, Gemini API, ElevenLabs</sub>
+<img src="https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge&logo=reactquery&logoColor=white" alt="TanStack Query" />
+<img src="https://img.shields.io/badge/NextAuth-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="NextAuth" />
+<img src="https://img.shields.io/badge/ShadCN-000000?style=for-the-badge&logo=shadcnui&logoColor=white" alt="ShadCN" />
+<img src="https://img.shields.io/badge/Chakra_UI-319795?style=for-the-badge&logo=chakraui&logoColor=white" alt="Chakra UI" />
+<img src="https://img.shields.io/badge/REST_APIs-025E8C?style=for-the-badge&logo=openapiinitiative&logoColor=white" alt="REST APIs" />
+<img src="https://img.shields.io/badge/Gemini_API-8E75B2?style=for-the-badge&logo=googlegemini&logoColor=white" alt="Gemini API" />
+<img src="https://img.shields.io/badge/ElevenLabs-000000?style=for-the-badge&logo=elevenlabs&logoColor=white" alt="ElevenLabs" />
 
 </div>
 
