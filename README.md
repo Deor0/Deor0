@@ -15,46 +15,13 @@
 
 ## 👋 About Me
 
-- 🔭 Building **Flood-Detection**, a web app for flood prediction, community awareness and missing-person reports
-- 🧠 Interested in **system design, scalability and cloud architecture**
-- 🌱 Always learning, always shipping
+I enjoy building backend systems and APIs that are reliable and easy to work with.
+
+Outside of work, I'm deep into system design — thinking through scalability, architecture tradeoffs, and how systems hold up under real-world load. Currently exploring cloud, and I enjoy playing chess in my downtime.
 
 ---
 
-## 🛠️ Tech Stack
-
-      <div align="center">
-
-      <img src="https://skillicons.dev/icons?i=js,ts,html,css,react,nextjs,nodejs,nestjs,postgres,aws,git,github,vercel&theme=dark" alt="tech stack" />
-
-      </div>
-
-      ---
-
-      ## 🚀 Featured Projects
-
-      | Project | Description | Stack |
-      | :-- | :-- | :-- |
-      | [**Flood-Detection**](https://github.com/Deor0/Flood-Detection) | Flood prediction and response platform with a community page and missing-persons table | TypeScript |
-      | [**Portfolio98**](https://github.com/Deor0/Portfolio98) | Personal portfolio website | JavaScript |
-      | [**webs**](https://github.com/Deor0/webs) | Web experiments and practice projects | JavaScript |
-
-      ---
-
-      ## 📊 GitHub Stats
-
-      <div align="center">
-
-      <img height="170" src="https://github-readme-stats.vercel.app/api?username=Deor0&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-      <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deor0&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages" />
-
-      <img src="https://streak-stats.demolab.com/?user=Deor0&theme=tokyonight&hide_border=true" alt="GitHub streak" />
-
-      </div>
-
-      ---
-
-      <div align="center">
+<div align="center">
 
       <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer" alt="footer" />
 
