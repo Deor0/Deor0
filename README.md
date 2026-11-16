@@ -15,9 +15,10 @@
 
 ## 👋 About Me
 
-I enjoy building backend systems and APIs that are reliable and easy to work with.
-
-Outside of work, I'm deep into system design — thinking through scalability, architecture tradeoffs, and how systems hold up under real-world load. Currently exploring cloud, and I enjoy playing chess in my downtime.
+- 🛠️ I enjoy building **backend systems and APIs** that are reliable and easy to work with
+- 🧠 Outside of work, I'm deep into **system design** — thinking through scalability, architecture tradeoffs, and how systems hold up under real-world load
+- ☁️ Currently exploring **cloud**
+- ♟️ I enjoy playing **chess** in my downtime
 
 ---
 
