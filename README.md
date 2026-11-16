@@ -22,6 +22,22 @@
 
 ---
 
+## 🛠️ Languages & Tools
+
+<div align="center">
+
+**Languages**
+
+<img src="https://skillicons.dev/icons?i=js,ts,html,css&theme=dark" alt="languages" />
+
+**Tools & Frameworks**
+
+<img src="https://skillicons.dev/icons?i=react,nextjs,nodejs,nestjs,postgres,aws,git,github,vercel&theme=dark" alt="tools" />
+
+</div>
+
+---
+
 <div align="center">
 
 <img src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:58a6ff&height=100&section=footer" alt="footer" />
